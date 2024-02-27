@@ -1,4 +1,8 @@
-# Inav-sPortMaster-feature-use
-Documentation and Arduino code for use the Inav sPortMaster feature 
+# Inav sPortMaster feature use 
+Documentation and Arduino code for use the [Inav](https://github.com/iNavFlight/inav) sPortMaster feature 
 
-Inava test
+##Table of contets
+
+
+
+### Description of the SmartPortMaster feature`
