@@ -8,12 +8,10 @@ Documentation and Arduino code for use the [Inav](https://github.com/iNavFlight/
 * [Setup](#setup)
 
 ## Description`
-
 The [Inav](https://github.com/iNavFlight/inav) since 6.5 version has a feature called smartportMaster. This feture enables to connect any FRsky sensor to the FC. It reads data form the sensor and sends it's data to receiver. 
 It can be used to add any additonal sensor with SPort protocol. This fearute works only with FPort2/FBus protocol for receiver. 
 
-##HOW TO
-
+## HOW TO
 SPort is 1 wire serial protocol but [Inav](https://github.com/iNavFlight/inav) uses both RX and TX pin of the Serial to deal with this protocol in smartportMaster feature. 
 Inav sends data polling via RX and reads sensorframe which must follow the data polling of the sensor. There are 2 methods of wire this feature : 
 1. For standard FrSky sensor it is possible to make it widh diode and resisotr wire as is shown here: [onewire-over-uart](https://github.com/dword1511/onewire-over-uart)
