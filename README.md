@@ -2,11 +2,12 @@
 Documentation and Arduino code for use the [Inav](https://github.com/iNavFlight/inav) sPortMaster feature
 
 ## Table of contents
-* [Description of the SmartPortMaster feature](#general-info)
+* [Description](#description)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## Description of the SmartPortMaster feature`
+## Description`
+
 tesdass
 asd
 asd
