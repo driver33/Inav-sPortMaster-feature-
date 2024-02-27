@@ -36,7 +36,7 @@ Tho code is set tu use both hardware and software Serial on Arduino. Hadrdware S
 It can be inverted by "const bool inversion = true;" (now is false).
 Wire it as standard serial FC_RX->Arduino_TX and FC_TX->Arduino_RX, power up arduino form any power source of FC you want. 
 
-In Inav configurator set the UART you have chosen to "SmartPort Master" in Paripherials colums - double check it the baudrate is 52600.
+In Inav configurator set the UART you have chosen to "SmartPort Master" in Peripherials column - double check it the baudrate is 52600.
 Setup receiver to work on FPort2/FBus protocol.
 Fire all up and find new sensor in your radio. RPM sensor shall appear. 
 
