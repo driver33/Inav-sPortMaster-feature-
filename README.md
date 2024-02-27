@@ -6,6 +6,7 @@ Documentation and Arduino code for use the [Inav](https://github.com/iNavFlight/
 * [Description](#description)
 * [HOW TO](#how-to)
 * [Setup](#setup)
+* [Thanx to](#Thanx-to)
 
 ## Description`
 The [Inav](https://github.com/iNavFlight/inav) since 6.5 version has a feature called "SmartPort Master". This feture enables to connect any FRsky sensor to the FC. It reads data form the sensor and sends it's data to receiver. 
@@ -39,5 +40,10 @@ In Inav configurator set the UART you have chosen to "SmartPort Master" in Parip
 Setup receiver to work on FPort2/FBus protocol.
 Fire all up and find new sensor in your radio. RPM sensor shall appear. 
 
+## Thanx to 
 
+1. Paweł Spychalski
+2. Pavelsky
+3. sensei_hacker
 
+   
